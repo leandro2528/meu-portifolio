@@ -1,1 +1,2 @@
 # meu-portifolio
+Este é o meu portfólio de desenvolvimento, criado como parte do meu aprendizado e prática em programação. O portfólio apresenta projetos que eu criei durante meu tempo de estudo em diferentes tecnologias, incluindo front-end e back-end. Cada projeto vem com uma descrição, incluindo a tecnologia utilizada, o objetivo do projeto e as habilidades que adquiri durante o processo. Espero que você encontre inspiração em meus projetos e veja meu progresso como desenvolvedor.
